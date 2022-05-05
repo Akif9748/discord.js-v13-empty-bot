@@ -6,4 +6,4 @@ Empty bot written in Discord.js v13, supporting only slash commands.
 
 Edit config.js, add new commands and publish the bot.
 
-@Akif9748 Thanks for your contribution bro. 💜
+[@Akif9748](https://github.com/Akif9748) Thanks for your contribution bro. 💜
