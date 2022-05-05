@@ -1,0 +1,14 @@
+{
+    "main": {
+        "token": "",
+        "botID": "",
+        "activity_name": "",
+        "activity_type": "",
+        "status": "",
+        "serverSite": "https://",
+        "developerID": "",
+        "supportServerInviteLink": "https://discord.gg/",
+        "TopGGToken": "",
+        "AFKVoiceChannelID": ""
+    }
+}
