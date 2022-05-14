@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const http = require("http");
+const { main } = require("./config.json");
 const { serverSite } = main;
 
 http.createServer((req, res) => {
